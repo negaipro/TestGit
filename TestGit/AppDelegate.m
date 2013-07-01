@@ -12,6 +12,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    NSLog(@"branch");
     return YES;
 }
 
